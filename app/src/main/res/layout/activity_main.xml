@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="Property value ($)"
+        android:text="@string/property_value"
         android:id="@+id/textView" />
 
     <EditText
@@ -91,7 +91,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Loan Amt"
+                android:text="@string/loan_amt"
                 android:id="@+id/textView3" />
             <TextView
                 android:layout_width="wrap_content"
@@ -110,7 +110,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Stamp Duty Amt"
+                android:text="@string/stamp_duty_amt"
                 android:id="@+id/textView4" />
             <TextView
                 android:layout_width="wrap_content"
@@ -128,7 +128,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="ABSD Amt"
+                android:text="@string/absd_amt"
                 android:id="@+id/textView5" />
             <TextView
                 android:layout_width="wrap_content"
@@ -147,7 +147,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Minimum cash Pmt"
+                android:text="@string/min_cash_pmt"
                 android:id="@+id/textView6" />
             <TextView
                 android:layout_width="wrap_content"
@@ -166,7 +166,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Downpayment"
+                android:text="@string/downpayment"
                 android:id="@+id/textView7" />
             <TextView
                 android:layout_width="wrap_content"
@@ -186,7 +186,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Max from CPF ($)"
+                android:text="@string/CPF_pmt"
                 android:id="@+id/textView8" />
             <EditText
                 android:layout_width="wrap_content"
@@ -210,7 +210,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Minimum cash Req"
+                android:text="@string/min_cash_req"
                 android:id="@+id/textView9" />
             <TextView
                 android:layout_width="wrap_content"

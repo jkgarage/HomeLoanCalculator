@@ -5,4 +5,13 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <string name="property_value">Property value[A] ($)</string>
+    <string name="loan_amt">Loan Amt [B]</string>
+    <string name="stamp_duty_amt">Stamp Duty Amt [p]</string>
+    <string name="absd_amt">ABSD Amt [q]</string>
+    <string name="min_cash_pmt">Minimum cash Pmt</string>
+    <string name="CPF_pmt">Max from CPF [C] ($)</string>
+    <string name="downpayment">Downpayment [D]\n( [A]-[B] )</string>
+    <string name="min_cash_req">Minimum cash Req\n[D]-[C]+[p]+[q]</string>
+
 </resources>
